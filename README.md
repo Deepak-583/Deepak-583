@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Analyst and working on real world projects, and my education is in MBA in Business Analytics.
+Data Analyst focused on real-world data projects, SQL analytics, data modeling, and insight-driven dashboards.
 
 
 ## 🌐 Socials:
